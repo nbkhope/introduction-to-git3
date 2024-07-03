@@ -1,2 +1,2 @@
 Hello There
-A new sentence
+A new sentence.
